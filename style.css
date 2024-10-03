@@ -8,12 +8,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     line-height: 1.6;
-    background-color: #04050f;
-    color: #020213;
+    background-color: #08010e;
+    color: #fff;
 }
 
 header {
-    background-color: #06021a;
+    background-color: #08010e;
     color: #333;
     padding: 15px 0;
     text-align: center;
@@ -36,7 +36,7 @@ nav ul li a {
 }
 
 #hero {
-    background-color: #03021a;
+    background-color: #40408d;
     color: #fff;
     text-align: center;
     padding: 50px 20px;
